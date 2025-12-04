@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://p1.hiclipart.com/preview/945/57/202/ia-writer-for-macos-ia-writer-dark-png-clipart.jpg" width="200"><br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQNcn-Kzabz0EN97cY6xoNl9j-J2XrIgYBg&s" width="200"><br>
 
 <a href="https://mac-apps-install.github.io/.github/ia-writer">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
